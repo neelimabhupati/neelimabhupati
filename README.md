@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left">•Crafting responsive and user-friendly web interfaces<br><br>•Writing clean, maintainable HTML, CSS, and TypeScript<br><br>•Building scalable single-page applications with Angular<br><br>•Implementing enterprise workflows with Pega (CSSA) in banking domain<br><br>•Developing robust system logic using C++ for printer modules<br><br>•Version control and collaborative code management with Git and GitHub<br><br>•Managing tasks and Agile workflows using Jira</p>
+<p data-importer="text" align="left">• Crafting responsive and user-friendly web interfaces<br><br>• Writing clean, maintainable HTML, CSS, and TypeScript<br><br>• Building scalable single-page applications with Angular<br><br>• Implementing enterprise workflows with Pega (CSSA) in banking domain<br><br>• Developing robust system logic using C++ for printer modules<br><br>• Version control and collaborative code management with Git and GitHub<br><br>• Managing tasks and Agile workflows using Jira</p>
 
 ###
 
