@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am a Pega CSSA certified developer and a strong background in C++, currently based in Germany and undergoing intensive Weiterbildung to transition into a specialized Frontend Developer. <br><br>Combining my core system architecture logic with modern web technologies, my current focus is on HTML, CSS, JavaScript, TypeScript, and Angular. Through practical projects, I am building responsive web applications, structuring clean code, and working with Git and GitHub. <br><br>I enjoy leveraging my problem-solving mindset to turn ideas into functional digital solutions, continuously improving my skills, and learning by building.</p>
+<p data-importer="text" align="left">I am a C++ developer, currently based in Germany and undergoing intensive Weiterbildung to transition into a specialized Frontend Developer. <br><br>Combining my core system architecture logic with modern web technologies, my current focus is on HTML, CSS, JavaScript, TypeScript, and Angular. Through practical projects, I am building responsive web applications, structuring clean code, and working with Git and GitHub. <br><br>I enjoy leveraging my problem-solving mindset to turn ideas into functional digital solutions, continuously improving my skills, and learning by building.</p>
 
 ###
 
